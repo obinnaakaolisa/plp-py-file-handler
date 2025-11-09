@@ -1,0 +1,7 @@
+Hello World
+Python is an amazing programming language
+File handling is an essential skill
+Exception handling makes code robust
+Learning Python is fun and rewarding
+Practice makes perfect
+Keep coding and never give up
